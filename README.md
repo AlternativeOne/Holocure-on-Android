@@ -1,6 +1,8 @@
 # Holocure-on-Android
 
-Big thanks to u/Capercailie [https://www.reddit.com/user/Capercailie/] for his/her work on this project.
+Big thanks to u/Capercailie [https://www.reddit.com/user/Capercailie/] for his/her work on this project [https://www.reddit.com/r/holocure/comments/vrjwia/a_barely_working_attempt_at_an_unofficial/].
+
+If you are here for apk - just download from the latest release on "Releases" page.
 
 Instruction:
 
@@ -17,3 +19,6 @@ Instruction:
 10. Sign your apk using apksigner tool from android-sdk (apksigner sign --ks PATH_TO_YOUR_KEYSTORE holocure_aligned.apk)
 11. ???
 12. Profit!
+
+
+I am not affiliated with Hololive, Cover Corp., Holocure Team or GameMaker. All trademarks are proterty of their owners. This is unofficial project.
