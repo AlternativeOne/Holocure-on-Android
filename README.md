@@ -1,6 +1,6 @@
 # Holocure-on-Android
 
-Big thanks to u/Capercailie [https://www.reddit.com/user/Capercailie/] for his/her work on this project [https://www.reddit.com/r/holocure/comments/vrjwia/a_barely_working_attempt_at_an_unofficial/].
+Big thanks to u/Capercailie [https://www.reddit.com/user/Capercailie/] for his/her work on the topic [https://www.reddit.com/r/holocure/comments/vrjwia/a_barely_working_attempt_at_an_unofficial/].
 
 If you are here for apk - just download from the latest release on "Releases" page.
 
